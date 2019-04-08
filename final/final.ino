@@ -1,3 +1,5 @@
+//All-in-one fingerprint scanner program (Menu driven)
+
 #include <Adafruit_Fingerprint.h>
 
 SoftwareSerial mySerial(2, 3);
